@@ -10,3 +10,8 @@ Esto es texto normal
 ## Encabezado nivel 3
 
  *texto en negrilas*
+
+* checha
+* francis
+* sasasasasasa
+* stuart 
