@@ -15,3 +15,6 @@ Esto es texto normal
 * francis
 * sasasasasasa
 * stuart 
+
+| | casa
+|X| mujer
